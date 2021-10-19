@@ -1,0 +1,8 @@
+{
+	"name": "Apache2",
+	"description": "apache2.",
+	"repository": "https://github.com/bls4/apache2",
+	"logo": "https://cdn.jamja.vn/blog/wp-content/uploads/2015/07/app-logo.png",
+	"keywords": ["apache2"],
+	"stack": "container"
+}
